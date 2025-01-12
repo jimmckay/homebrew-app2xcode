@@ -1,4 +1,4 @@
-class app2xcode < Formula
+class App2xcode < Formula
   desc "Add a signed app to XCode's organizer"
   homepage "https://github.com/jimmckay/app2xcode/"
   url "https://github.com/jimmckay/app2xcode/archive/refs/tags/1.0.0.tar.gz"
