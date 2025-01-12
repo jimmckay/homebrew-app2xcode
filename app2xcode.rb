@@ -5,7 +5,7 @@ class App2xcode < Formula
   sha256 "22a52001efe7f81c050eeae093e745797d66dc78d10702508e0519ebffcd04a9"
 
   def install
-    bin.install "app2xcode.sh"
+    bin.install "app2xcode"
   end
 
   test do
